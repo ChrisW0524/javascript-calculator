@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-[Link to project]("http://ChrisW0524.github.io/javascript-calculator")
+[Link to project](http://ChrisW0524.github.io/javascript-calculator)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
